@@ -1,18 +1,9 @@
 ---
-layout: default
-title: <Your Name> - Portfolio
-permalink: /projects/
+layout: project
+title: Linear Actuator Project
+description: Design Sketch
+technologies: None
+image: "/assets/images/Portfolio 2.pdfd"
 ---
 
-<div class="gallery-container">
-<div class="project-gallery">
-    {% for project in site.projects %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title}}</p>
-        </a>
-      </div>
-    {% endfor %}
-</div>
-</div>
+For this assignment I designed a frame/mechanism to lift the maximum possible weight to the highest possible height given a rigid bar, three pins, a linear actuator, and a design space pf 150 x 50 cm. For my actuator, I used the IMA-33 with 37 cm of stroke. I set one pin attatching the bar to the ground, another connecting the actuator to the ground, and the last one connecting the actuator to the bar. The instructions left it vague as to the desired ratio of weight to height lifted, and so I prioritized lifting higher values of weight. This design would be able to lift up to roughly 1015 lbs a height of 38 cm. It uses a C130x10.4 channel, and is able to support this weight with a maximum deflection of 9.54 mm.
