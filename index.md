@@ -11,4 +11,4 @@ title: <Sean McCarey>
  
 My name is Sean McCarey, and I am a mechanical engineering student at Cornell University. 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/2025-LinearActuator.md" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
