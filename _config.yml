@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sean McCarey
 description              : Sean McCarey - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/spring-2025-portfolio-McCarey/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
