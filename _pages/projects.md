@@ -1,6 +1,8 @@
+---
 layout: default
 title: <"Sean McCarey"> - Portfolio
-permalink: "/projects/2025-LinearActuator.md"
+permalink: /projects/
+---
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
