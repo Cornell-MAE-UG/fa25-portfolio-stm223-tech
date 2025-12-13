@@ -14,7 +14,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Sean McCarey
 description              : Sean McCarey - Projects and CV 
 baseurl                  : "/spring-2025-portfolio-McCarey/" # Set this to your repo name 
-
+url                      : "https://cornell-mae-ug.github.io"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
