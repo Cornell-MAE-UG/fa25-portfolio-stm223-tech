@@ -2,7 +2,6 @@
 layout: project
 title: Nutcracker Design
 description: Design sketch
-technologies: None
 image: /assets/images/Nutcracker.jpeg
 ---
 
